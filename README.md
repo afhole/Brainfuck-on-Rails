@@ -18,7 +18,7 @@ Did you know that Facebook's "poke" is implemented using BF?
 
 ## Performance
 
-BoR performance is awesome. It runs thousands of events loops that allow you to execute millions of parallel asynchronous expresions.
+BoR performance is awesome. It runs thousands of events loops that allow you to execute millions of parallel asynchronous expressions.
 
 The footprint of the framework is almost inexistant. It just needs 20MB of memory. You can even run the framework on the cheap amazon machines!
 
